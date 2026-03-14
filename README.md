@@ -15,7 +15,7 @@ A premium, newspaper-themed portfolio website built with React and Vite. This de
 - **Framework**: [React](https://reactjs.org/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
 - **Styling**: Vanilla CSS (Custom broadsheet system)
-- **Deployment**: [Vercel](https://vercel.com/) (Planned)
+- **Deployment**: [Live Demo](https://germanyportfolio.vercel.app/) (Vercel)
 
 ## Getting Started
 
